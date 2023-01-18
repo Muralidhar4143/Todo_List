@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+}
+.rightSide{
+    position: absolute;
+    display: flex;
+width: 40vw;
+height: 50vh;
+margin-left: 300px;
+margin-top: 120px;
+
+}
+.leftSide{
+    width: 50vw;
+    height: 50vh;
+    position: absolute;
+    display: inline;
+    margin-left: 550px;
+    margin-top: 120px;
+}
+.heading{
+    padding:30px;
+}
+.input3{
+    margin-left: -20px;
+}
+.btn{
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color: aqua;
+}
+
+.btn1{
+    border-radius: 5px;   
+}
+.btn1:hover{
+    background-color: red;
+}
